@@ -1,0 +1,25 @@
+{
+  "name": "webdriverio_e2e",
+  "version": "1.0.0",
+  "description": "WebdriverIO E2E Web+Api+DB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebdriverIO",
+    "E2E",
+    "Web+Api+DB"
+  ],
+  "author": "DJ",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^5.2.1",
+    "@wdio/cli": "^9.12.4",
+    "@wdio/cucumber-framework": "^9.12.3",
+    "@wdio/local-runner": "^9.12.4",
+    "@wdio/spec-reporter": "^9.12.3",
+    "chai": "^5.2.0"
+  }
+}
